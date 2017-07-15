@@ -1,6 +1,6 @@
 <?php
 
-$servername = "127.6.90.130";
+$servername = "127.6.90.130:3306";
 $username = "adminNgCQsLT";
 $password = "A5NcQrqMLXKH";
 $dbname = "msit";
